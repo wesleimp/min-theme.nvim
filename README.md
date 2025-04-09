@@ -2,6 +2,8 @@
 
 A minimal, dark color scheme for Neovim with subtle syntax highlighting and a clean interface.
 
+![lua-screenshot](./assets/lua-screenshot.png "Lua screenshot")
+
 ## Features
 
 - Dark, low-contrast theme with a focus on readability
